@@ -99,7 +99,7 @@
         </td>
     </tr>
     <tr>
-        <td> <a href="주세요.com"> 주세요몰 </a> </td>
+        <td> <a href="주세요.com"> 주세요 </a> </td>
       <td width="500px">기존의 수동형식의 주류공급 프로세스를 이커머스 형태로 자동화하여 반복적인 업무의 시간을 단축하고, 효율성을 높인 웹사이트입니다.</td>
         <td>
         <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=yellow">
