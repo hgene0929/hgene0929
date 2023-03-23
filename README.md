@@ -97,7 +97,24 @@
         <td>
           자세한 설명 및 문서는 <a href="https://github.com/avalon-202n"> 여기 </a>를 참고해주세요.
         </td>
-    </tr>   
+    </tr>
+    <tr>
+        <td> <a href="주세요.com"> 주세요몰 </a> </td>
+      <td width="500px">기존의 수동형식의 주류공급 프로세스를 이커머스 형태로 자동화하여 반복적인 업무의 시간을 단축하고, 효율성을 높인 웹사이트입니다.</td>
+        <td>
+        <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=yellow">
+        <img src="https://img.shields.io/badge/Spring Boot-444444?style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/Spring Data Jpa-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/Spring Security-444444?style=for-the-badge&logo=Spring Security&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/MariaDB-444444?style=for-the-badge&logo=MariaDB&logoColor=#003545">
+        <img src="https://img.shields.io/badge/querydsl-444444?style=for-the-badge&logo=querydsl&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E">
+        </td>
+        <td>
+          간략한 설명 및 개발일지는 <a href="[https://github.com/avalon-202n](https://www.notion.so/aebdf2a03ef243d2a04708ce62936034)"> 여기 </a>를 참고해주세요.</br>
+          해당 프로젝트는 인턴근무 당시의 프로젝트로 자세한 소스코드는 비공개입니다 :smile:
+        </td>
+    </tr> 
 </table>
 
 </div>
