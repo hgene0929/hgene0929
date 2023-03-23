@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi!%20there&fontSize=90" />
+
+<center> :wrench: Tech Stack :wrench: </center>
+
+<div style="text-align: center"> :wrench: Tech Stack :wrench: </div>
+
 ### Hi there 👋
 
 <!--
