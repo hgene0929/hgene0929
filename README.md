@@ -111,7 +111,7 @@
         <img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E">
         </td>
         <td>
-          간략한 설명 및 개발일지는 <a href="https://github.com/avalon-202n](https://www.notion.so/aebdf2a03ef243d2a04708ce62936034"> 여기 </a>를 참고해주세요.</br>
+          간략한 설명 및 개발일지는 <a href="https://www.notion.so/aebdf2a03ef243d2a04708ce62936034"> 여기 </a>를 참고해주세요.</br>
           해당 프로젝트는 인턴근무 당시의 프로젝트로 자세한 소스코드는 비공개입니다 :smile:
         </td>
     </tr> 
