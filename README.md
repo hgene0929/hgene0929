@@ -51,7 +51,7 @@
   <div> 2022 스마트 캠퍼스 아이디어 공모전(우수상)</div>
   <div> HUFSummer Hackathon(대상)</div>
   <div> 2022학년도 2학기 캡스톤(우수상) </div>
-  <div> 네트워크 관리사 2 </div>  
+  <div> 네트워크 관리사 2급 </div>  
 </div>
 
 </br></br>
