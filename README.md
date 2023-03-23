@@ -36,7 +36,7 @@
 
 </br></br>
 
-<div align="center"> 👷‍♂️ github stats 👷‍♂️ </div></br>
+<div align="center"> 👷‍♂️ Github Stats 👷‍♂️ </div></br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hgene0929&show_icons=true">
@@ -44,7 +44,19 @@
 
 </br></br>
 
-<div align="center"> 👷‍♂️ main projects 👷‍♂️ </div></br>
+<div align="center"> 🥇 Awards/Certificate 🥇 </div></br>
+
+<div align="center">
+  <div> <a href="">21-22 GDSC Member Certificates</a> </div>
+  <div> <a href="">2022 스마트 캠퍼스 아이디어 공모전(우수상)</a> </div>
+  <div> <a href="">HUFSummer Hackathon(대상)</a> </div>
+  <div> <a href="">2022학년도 2학기 캡스톤(우수상)</a> </div>
+  <div> <a href="">네트워크 관리사 2</a> </div>  
+</div>
+
+</br></br>
+
+<div align="center"> 👷‍♂️ Main Projects 👷‍♂️ </div></br>
 
 <div align="center">
   Java/Spring 백엔드 개발자로서 다음의 주요 프로젝트의 서버 개발에 참여한 경험이 있습니다.</br></br>
