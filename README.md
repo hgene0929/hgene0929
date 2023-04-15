@@ -86,7 +86,7 @@
         </td>
         <td>
           자세한 설명 및 문서는 <a href="https://github.com/askus-2023"> 여기 </a>를 참고해주세요.</br>
-          프로젝트 중  관련 정리는 <a href="https://hgene.notion.site/abc539fde46b4405999ef44b44356794"> 여기 </a>를 참고해주세요.
+          개인파트 관련  정리는 <a href="https://hgene.notion.site/abc539fde46b4405999ef44b44356794"> 여기 </a>를 참고해주세요.
         </td>
     </tr>   
     <tr>
