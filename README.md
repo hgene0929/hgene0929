@@ -86,7 +86,7 @@
         </td>
         <td>
           자세한 설명 및 문서는 <a href="https://github.com/askus-2023"> 여기 </a>를 참고해주세요.</br>
-          개인파트 관련  정리는 <a href="https://hgene.notion.site/abc539fde46b4405999ef44b44356794"> 여기 </a>를 참고해주세요.
+          개인파트 관련 이슈 정리는 <a href="https://hgene.notion.site/abc539fde46b4405999ef44b44356794"> 여기 </a>를 참고해주세요.
         </td>
     </tr>   
     <tr>
@@ -103,8 +103,8 @@
         <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
         </td>
         <td>
-          자세한 설명 및 문서는 <a href="https://github.com/avalon-202n"> 여기 </a>를 참고해주세요.
-          개인파트 관련 정리는 <a href="https://hgene.notion.site/Avalon-221e7586be2246cab5600ea24cdce57f"> 여기 </a>를 참고해주세요.
+          자세한 설명 및 문서는 <a href="https://github.com/avalon-202n"> 여기 </a>를 참고해주세요.</br>
+          개인파트 관련 이슈 정리는 <a href="https://hgene.notion.site/Avalon-221e7586be2246cab5600ea24cdce57f"> 여기 </a>를 참고해주세요.
         </td>
     </tr>
 </table>
