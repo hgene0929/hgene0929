@@ -122,7 +122,7 @@
         <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=GitHub Actions&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/openai-444444?style=for-the-badge&logo=openai&logoColor=#412991">
-        <img src="https://img.shields.io/badge/websocket-444444?style=for-the-badge&logo=openai&logoColor=#412991">
+        <img src="https://img.shields.io/badge/web socket-444444?style=for-the-badge&logo=web socket&logoColor=#412991">
         </td>
         <td>
           자세한 설명 및 문서는 <a href=""> 여기 </a>를 참고해주세요.</br>
