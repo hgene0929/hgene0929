@@ -68,7 +68,7 @@
         <th> 상세 </th>
     </tr>
     <tr>
-        <td> <a href="https://github.com/askus-2023"> Kookle </a> </td>
+        <td> <a href="https://github.com/askus-2023"> Cookle </a> </td>
       <td width="500px"> Cookle은 냉장고에 있는 처치곤란 재료들을 위한 맞춤 레시피를 ChatGPT OpenAPI를 사용해 채팅형식으로 추천받고, 이를 공유하는 플랫폼입니다.</td>
         <td>
         <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=yellow">
@@ -96,7 +96,6 @@
         <img src="https://img.shields.io/badge/Spring Boot-444444?style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F">
         <img src="https://img.shields.io/badge/Spring Data Jpa-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
         <img src="https://img.shields.io/badge/Spring Security-444444?style=for-the-badge&logo=Spring Security&logoColor=#6DB33F">
-        <img src="https://img.shields.io/badge/querydsl-444444?style=for-the-badge&logo=querydsl&logoColor=#6DB33F">
         <img src="https://img.shields.io/badge/DB2-444444?style=for-the-badge&logo=DB2&logoColor=##4479A1">
         <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=GitHub Actions&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
