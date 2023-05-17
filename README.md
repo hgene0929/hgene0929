@@ -25,19 +25,20 @@
 
 <div align="center">
   <span><img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=orange"></span>
-  <span><img src="https://img.shields.io/badge/Spring-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F"></span>
-  <span><img src="https://img.shields.io/badge/Spring Boot-444444?style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F"></span></br>
-  <span><img src="https://img.shields.io/badge/Spring Data Jpa-444444?style=for-the-badge&logo=Spring Data Jpa&logoColor=#6DB33F"></span>
-  <span><img src="https://img.shields.io/badge/Spring Security-444444?style=for-the-badge&logo=Spring Security&logoColor=#6DB33F"></span>
-  <span><img src="https://img.shields.io/badge/querydsl-444444?style=for-the-badge&logo=querydsl&logoColor=#6DB33F"></span></br>
+  <span><img src="https://img.shields.io/badge/Spring Framework-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F"></span></br>
+  
   <span><img src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=MySQL&logoColor=#4479A1"></span>
   <span><img src="https://img.shields.io/badge/MariaDB-444444?style=for-the-badge&logo=MariaDB&logoColor=#003545"></span>
-  <span><img src="https://img.shields.io/badge/Amazon S3-444444?style=for-the-badge&logo=Amazon S3&logoColor=#569A31"></span></br>
-  <span><img src="https://img.shields.io/badge/Amazon EC2-444444?style=for-the-badge&logo=amazonec2&logoColor=#FF9900"></span>
+  <span><img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=#DC382D"></span>
+  <span><img src="https://img.shields.io/badge/querydsl-444444?style=for-the-badge&logo=querydsl&logoColor=#6DB33F"></span></br>
+  
+  <span><img src="https://img.shields.io/badge/Amazon AWS-444444?style=for-the-badge&logo=amazonaws&logoColor=#232F3E"></span>
+  <span><img src="https://img.shields.io/badge/Github Actions-444444?style=for-the-badge&logo=githubactions&logoColor=#2088FF"></span>
+  <span><img src="https://img.shields.io/badge/Google Cloud-444444?style=for-the-badge&logo=Google Cloud&logoColor=#4285F4"></span></br>
+  
   <span><img src="https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python&logoColor=##3776AB"></span>
   <span><img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"></span>
   <span><img src="https://img.shields.io/badge/Linux-444444?style=for-the-badge&logo=Linux&logoColor=#FCC624"></span>
-  <span><img src="https://img.shields.io/badge/Google Cloud-444444?style=for-the-badge&logo=Google Cloud&logoColor=#4285F4"></span>
 </div>
 
 </br></br>
