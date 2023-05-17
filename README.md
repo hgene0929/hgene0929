@@ -33,6 +33,7 @@
   <span><img src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=MySQL&logoColor=#4479A1"></span>
   <span><img src="https://img.shields.io/badge/MariaDB-444444?style=for-the-badge&logo=MariaDB&logoColor=#003545"></span>
   <span><img src="https://img.shields.io/badge/Amazon S3-444444?style=for-the-badge&logo=Amazon S3&logoColor=#569A31"></span></br>
+  <span><img src="https://img.shields.io/badge/Amazon EC2-444444?style=for-the-badge&logo=amazonec2&logoColor=#FF9900"></span>
   <span><img src="https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python&logoColor=##3776AB"></span>
   <span><img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"></span>
   <span><img src="https://img.shields.io/badge/Linux-444444?style=for-the-badge&logo=Linux&logoColor=#FCC624"></span>
