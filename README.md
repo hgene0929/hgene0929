@@ -108,6 +108,26 @@
           자세한 설명 및 문서는 <a href="https://github.com/avalon-202n"> 여기 </a>를 참고해주세요.</br>
         </td>
     </tr>
+    <tr>
+        <td> <a href="https://github.com/pika-2023"> 새록새록 </a> </td>
+      <td width="500px">회상요법을 통한 치매예방 웹앱 애플리케이션 서비스입니다.</td>
+        <td>
+        <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=yellow">
+        <img src="https://img.shields.io/badge/Spring Boot-444444?style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/Spring Data Jpa-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/Spring Security-444444?style=for-the-badge&logo=Spring Security&logoColor=#6DB33F">
+        <img src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=MySQL&logoColor=##4479A1">
+        <img src="https://img.shields.io/badge/Amazon S3-444444?style=for-the-badge&logo=Amazon S3&logoColor=#569A31">
+        <img src="https://img.shields.io/badge/Amazon EC2-444444?style=for-the-badge&logo=Amazon EC2&logoColor=#FF9900">
+        <img src="https://img.shields.io/badge/Amazon CodeDeploy-444444?style=for-the-badge&logo=Amazon CodeDeploy&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=GitHub Actions&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/openai-444444?style=for-the-badge&logo=openai&logoColor=#412991">
+        </td>
+        <td>
+          자세한 설명 및 문서는 <a href="https://github.com/pika-2023"> 여기 </a>를 참고해주세요.</br>
+        </td>
+    </tr>
 </table>
 
 </div>
