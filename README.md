@@ -32,10 +32,6 @@
   <span><img src="https://img.shields.io/badge/querydsl-444444?style=for-the-badge&logo=querydsl&logoColor=#6DB33F"></span></br>
   <span><img src="https://img.shields.io/badge/Amazon AWS-444444?style=for-the-badge&logo=amazonaws&logoColor=#232F3E"></span>
   <span><img src="https://img.shields.io/badge/Github Actions-444444?style=for-the-badge&logo=githubactions&logoColor=#2088FF"></span>
-  <span><img src="https://img.shields.io/badge/Google Cloud-444444?style=for-the-badge&logo=Google Cloud&logoColor=#4285F4"></span></br>
-  <span><img src="https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python&logoColor=##3776AB"></span>
-  <span><img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"></span>
-  <span><img src="https://img.shields.io/badge/Linux-444444?style=for-the-badge&logo=Linux&logoColor=#FCC624"></span>
 </div>
 
 </br></br>
