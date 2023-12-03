@@ -100,8 +100,8 @@
         <img src="https://img.shields.io/badge/Spring Data Jpa-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
         <img src="https://img.shields.io/badge/Spring Security-444444?style=for-the-badge&logo=Spring Security&logoColor=#6DB33F">
         <img src="https://img.shields.io/badge/DB2-444444?style=for-the-badge&logo=MYSQL&logoColor=##4479A1">
-        <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=Javascript&logoColor=##2088FF">
-        <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=Vue&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/Javascript-444444?style=for-the-badge&logo=Javascript&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/Vue.js-444444?style=for-the-badge&logo=Vue.js&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
         </td>
         <td>
