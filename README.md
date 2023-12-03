@@ -6,8 +6,8 @@
 
 <div align="center"> 👋 안녕하세요 👋</br>
 저는 “자바 기반 웹 개발 기술 역량”뿐 아니라 “고객 중심의 사고방식”과 “팀원들과의 협업방식”에 대해 끊임없이 노력하는 백엔드 엔지니어입니다.</br>
-이를 기반으로 프로젝트 진행 시에는 항상 노션(Notion) 협업툴을 활용하여 함께하는 팀원들이 서로의 개발 진행 상황과 관련한 이슈 사항 대해 자세하게 파악할 수 있도록 하는 환경을 구축하고 있습니다.</br> 
-동시에 디스코드(Discord) 협업툴과 깃허브(Github) 버전관리툴을 연동하여 다른 팀원이 코드를 커밋하였다는 알림을 받고 이에 대한 리뷰 작성을 신속하게 할 수 있도록 관리하고 있습니다.</br>
+이를 기반으로 프로젝트 진행 시에는 항상 노션(Notion) 협업툴을 활용하여 함께하는 팀원들이 서로의 개발 진행 상황과 관련한 이슈 사항 대해 자세하게 파악할 수 있도록 하는 환경을 구축하고 있습니다.
+동시에 디스코드(Discord) 협업툴과 깃허브(Github) 버전관리툴을 연동하여 다른 팀원이 코드를 커밋하였다는 알림을 받고 이에 대한 리뷰 작성을 신속하게 할 수 있도록 관리하고 있습니다.
 뿐만 아니라 참여하는 프로젝트에 대해 예상 사용자에 대한 통계자료나 설문조사 및 인터뷰를 진행함으로써 도메인에 대해 깊이 이해하여 더 나은 사용자 경험(UX)을 제공하고 있습니다.</br>
 </div></br>
 
@@ -51,7 +51,9 @@
   <div> 2022 스마트 캠퍼스 아이디어 공모전(우수상)</div>
   <div> HUFSummer Hackathon(대상)</div>
   <div> 2022학년도 2학기 캡스톤(우수상) </div>
+  <div> 2023 삼성청년 소프트웨어 아카데미 1학기 프로젝트(우수상) </div>
   <div> 2023 제1회 새싹톤 수료 </div>
+  <div> 삼성청년 소프트웨어 아카데미 10기 1학기 수료 </div>
   <div> 네트워크 관리사 2급 </div>    
 </div>
 
@@ -90,19 +92,20 @@
         </td>
     </tr>   
     <tr>
-        <td> <a href="https://github.com/avalon-202n"> Avalon </a> </td>
-      <td width="500px">카카오톡 클론 코딩 기반 1대 1 채팅 애플리케이션입니다.</td>
+        <td> <a href="https://github.com/avalon-202n"> 희수앤코코 하우스 </a> </td>
+      <td width="500px">부동산 매물 정보 및 관심지역 부가정보 제공 웹 서비스입니다.</td>
         <td>
         <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=yellow">
         <img src="https://img.shields.io/badge/Spring Boot-444444?style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F">
         <img src="https://img.shields.io/badge/Spring Data Jpa-444444?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
         <img src="https://img.shields.io/badge/Spring Security-444444?style=for-the-badge&logo=Spring Security&logoColor=#6DB33F">
-        <img src="https://img.shields.io/badge/DB2-444444?style=for-the-badge&logo=DB2&logoColor=##4479A1">
-        <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=GitHub Actions&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/DB2-444444?style=for-the-badge&logo=MYSQL&logoColor=##4479A1">
+        <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=Javascript&logoColor=##2088FF">
+        <img src="https://img.shields.io/badge/GitHub Actions-444444?style=for-the-badge&logo=Vue&logoColor=##2088FF">
         <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=##2088FF">
         </td>
         <td>
-          자세한 설명 및 문서는 <a href="https://github.com/avalon-202n"> 여기 </a>를 참고해주세요.</br>
+          자세한 설명 및 문서는 <a href="https://github.com/hgene0929/heesu_and_coco_house"> 여기 </a>를 참고해주세요.</br>
         </td>
     </tr>
     <tr>
