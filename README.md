@@ -60,6 +60,17 @@
 
 </br></br>
 
+<div align="center"> 🗒️ Studies 🗒️ </div></br>
+
+[spring security 학습내용 바로가기](https://github.com/PragmaticArchive/SpringSecurity) <br>
+[jpa 학습내용 바로가기]() <br>
+[querydsl 학습내용 바로가기]() <br>
+[redis 학습내용 바로가기]() <br>
+[spring test 학습내용 바로가기]() <br>
+[algorithm 풀이코드 바로가기](https://github.com/PragmaticArchive/Algorithm) <br>
+
+</br></br>
+
 <div align="center"> 👷‍♂️ Main Projects 👷‍♂️ </div></br>
 
 <div align="center">
@@ -130,15 +141,6 @@
         </td>
     </tr>
 </table>
-
-<div align="center"> 🗒️ Studies 🗒️ </div></br>
-
-[spring security 학습내용 바로가기](https://github.com/PragmaticArchive/SpringSecurity) <br>
-[jpa 학습내용 바로가기]() <br>
-[querydsl 학습내용 바로가기]() <br>
-[redis 학습내용 바로가기]() <br>
-[spring test 학습내용 바로가기]() <br>
-[algorithm 풀이코드 바로가기](https://github.com/PragmaticArchive/Algorithm) <br>
 
 </div>
 
