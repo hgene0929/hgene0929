@@ -62,12 +62,14 @@
 
 <div align="center"> 🗒️ Studies 🗒️ </div></br>
 
+<div align="center">
 [spring security 학습내용 바로가기](https://github.com/PragmaticArchive/SpringSecurity) <br>
 [jpa 학습내용 바로가기]() <br>
 [querydsl 학습내용 바로가기]() <br>
 [redis 학습내용 바로가기]() <br>
 [spring test 학습내용 바로가기]() <br>
 [algorithm 풀이코드 바로가기](https://github.com/PragmaticArchive/Algorithm) <br>
+</div>
 
 </br></br>
 
