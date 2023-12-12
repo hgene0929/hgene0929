@@ -131,6 +131,15 @@
     </tr>
 </table>
 
+<div align="center"> 🗒️ Studies 🗒️ </div></br>
+
+- [spring security 학습내용 바로가기](https://github.com/PragmaticArchive/SpringSecurity)
+- [jpa 학습내용 바로가기]()
+- [querydsl 학습내용 바로가기]()
+- [redis 학습내용 바로가기]()
+- [spring test 학습내용 바로가기]()
+- [algorithm 풀이코드 바로가기](https://github.com/PragmaticArchive/Algorithm)
+
 </div>
 
 <!--
