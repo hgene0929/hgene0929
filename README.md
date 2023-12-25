@@ -65,7 +65,7 @@
 <div align="center">
   <a href="https://github.com/PragmaticArchive/Algorithm">algorithm 풀이코드 바로가기</a><br>
   <a href="https://github.com/PragmaticArchive/SpringSecurity">spring security 학습내용 바로가기</a><br>
-  <a href="">jpa 학습내용 바로가기</a><br>
+  <a href="https://github.com/PragmaticArchive/JPA">jpa 학습내용 바로가기</a><br>
   <a href="">querydsl 학습내용 바로가기</a><br>
   <a href="https://github.com/PragmaticArchive/Redis">redis 학습내용 바로가기</a><br>
   <a href="">spring test 학습내용 바로가기</a><br>
