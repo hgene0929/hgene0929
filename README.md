@@ -44,19 +44,26 @@
 
 </br></br>
 
-<div align="center"> 🥇 Awards/Certificate 🥇 </div></br>
+<div align="center"> 🥇 Certificate 🥇 </div></br>
 
 <div align="center">
   <div> 21-22 GDSC Member Certificates</div>
-  <div> 2022 스마트 캠퍼스 아이디어 공모전(우수상)</div>
-  <div> HUFSummer Hackathon(대상)</div>
-  <div> 2022학년도 2학기 캡스톤(우수상) </div>
-  <div> 2023 삼성청년 소프트웨어 아카데미 1학기 프로젝트(우수상) </div>
   <div> 2023 제1회 새싹톤 수료 </div>
   <div> 삼성청년 소프트웨어 아카데미 10기 1학기 수료 </div>
   <div> 네트워크 관리사 2급 </div>
   <div> SQLD </div>
   <div> 리눅스 마스터 2급 </div>
+</div>
+
+</br></br>
+
+<div align="center"> 🥇 Awards 🥇 </div></br>
+
+<div align="center">
+  <div> 2022 스마트 캠퍼스 아이디어 공모전(우수상)</div>
+  <div> HUFSummer Hackathon(대상)</div>
+  <div> 2022학년도 2학기 캡스톤(우수상) </div>
+  <div> 2023 삼성청년 소프트웨어 아카데미 1학기 프로젝트(우수상) </div>
 </div>
 
 </br></br>
