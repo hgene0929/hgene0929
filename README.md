@@ -113,7 +113,7 @@
         </td>
     </tr>   
     <tr>
-        <td> <a href="https://github.com/avalon-202n"> 희수앤코코 하우스 </a> </td>
+        <td> <a href="https://github.com/hgene0929/heesu_and_coco_house"> 희수앤코코 하우스 </a> </td>
       <td width="500px">부동산 매물 정보 및 관심지역 부가정보 제공 웹 서비스입니다.</td>
         <td>
         <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java&logoColor=yellow">
