@@ -37,14 +37,6 @@
 
 </br></br>
 
-<div align="center"> 👷‍♂️ Github Stats 👷‍♂️ </div></br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgene0929&show_icons=true">
-</div>
-
-</br></br>
-
 <div align="center"> 🥇 Certificate 🥇 </div></br>
 
 <div align="center">
